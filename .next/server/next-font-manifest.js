@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/aryans.rao/Downloads/projects/imgcat/app/layout\":[\"static/media/c9a5bc6a7c948fb0-s.p.woff2\",\"static/media/0cf0e55cc0ef3777-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
